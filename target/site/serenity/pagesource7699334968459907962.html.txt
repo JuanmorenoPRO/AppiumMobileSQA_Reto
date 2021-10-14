@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index="0" class="hierarchy" rotation="0" width="1080" height="1977">
+  <android.widget.FrameLayout index="0" package="android" class="android.widget.FrameLayout" text="" resource-id="android:id/autofill_dataset_picker" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,492][509,633]" displayed="true">
+    <android.widget.ListView index="0" package="android" class="android.widget.ListView" text="" resource-id="android:id/autofill_dataset_list" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,492][509,633]" displayed="true">
+      <android.widget.RelativeLayout index="0" package="com.google.android.gms" class="android.widget.RelativeLayout" text="" resource-id="android:id/content" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,492][509,633]" displayed="true">
+        <android.widget.TextView index="0" package="com.google.android.gms" class="android.widget.TextView" text="juanpa6474@gmail.com" resource-id="android:id/text1" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[44,492][465,633]" displayed="true" />
+      </android.widget.RelativeLayout>
+    </android.widget.ListView>
+  </android.widget.FrameLayout>
+</hierarchy>
